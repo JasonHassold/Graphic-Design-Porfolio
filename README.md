@@ -15,3 +15,7 @@ I'm using github for my graphic design portfolio to keep all of my work in one p
 ![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Icons%20on%20Resume/GitHub%20Icon.png)
 ![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Icons%20on%20Resume/Location%20Icon.png)
 ![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Icons%20on%20Resume/Phone%20Icon.png)
+
+### Photo Contest Website Logo and Tab Icon
+![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Photo%20Contest%20Website%20Logo/logo.png)
+![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Photo%20Contest%20Website%20Logo/icon-trans.png)
