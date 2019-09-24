@@ -9,3 +9,9 @@ I'm using github for my graphic design portfolio to keep all of my work in one p
 
 ### Daily Logo Challenge #3
 ![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Daily%20Logo%20Challenge/Daily%20Logo%20Challenge%20%233%20(Panda).png)
+
+### Icons In My Resume
+![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Icons%20on%20Resume/Email%20Icon.png)
+![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Icons%20on%20Resume/GitHub%20Icon.png)
+![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Icons%20on%20Resume/Location%20Icon.png)
+![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Icons%20on%20Resume/Phone%20Icon.png)
