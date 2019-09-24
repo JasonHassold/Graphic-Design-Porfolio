@@ -5,7 +5,7 @@ I'm using github for my graphic design portfolio to keep all of my work in one p
 ![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Music%20Therapy%20Exchange%20Logo/MTE%20Logo.png)
 
 ### Broker Genuis Contract
-
+![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Broker%20Genius%20Contracted%20Design/scissors-cutting-dollar.png)
 
 ### Daily Logo Challenge #3
 ![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Daily%20Logo%20Challenge/Daily%20Logo%20Challenge%20%233%20(Panda).png)
