@@ -21,4 +21,3 @@ I'm using github for my graphic design portfolio to keep all of my work in one p
 
 ### Photo Contest Website Logo and Tab Icon
 ![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Photo%20Contest%20Website%20Logo/logo.png)
-![](https://github.com/JasonHassold/Graphic-Design-Porfolio/blob/master/Photo%20Contest%20Website%20Logo/icon-trans.png)
